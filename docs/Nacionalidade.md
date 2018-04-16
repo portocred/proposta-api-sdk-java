@@ -1,0 +1,16 @@
+
+# Nacionalidade
+
+## Enum
+
+
+* `BRASILEIRO_NATO` (value: `"BRASILEIRO_NATO"`)
+
+* `ESTRANGEIRO` (value: `"ESTRANGEIRO"`)
+
+* `ESTRANGEIRO_RESIDENTE` (value: `"ESTRANGEIRO_RESIDENTE"`)
+
+* `BRASILEIRO_NATURALIZADO` (value: `"BRASILEIRO_NATURALIZADO"`)
+
+
+
